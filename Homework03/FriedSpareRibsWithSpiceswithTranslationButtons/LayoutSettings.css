@@ -6,6 +6,6 @@
   and make it fixed when the scollbar moves*/
 .buttonSet{
     position: fixed;
-    right: 10px;
+    right: 15px;
 
 }
